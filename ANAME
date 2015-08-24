@@ -1,4 +1,0 @@
-$ dig tfboys.dog +nostats +nocomments +nocmd
-;tfboys.dog
-tfboys.dog.   73  IN  A 192.30.252.153
-tfboys.dog.   73  IN  A 192.30.252.154
